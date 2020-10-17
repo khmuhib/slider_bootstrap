@@ -1,0 +1,27 @@
+.img_main {
+    background-color: #233342;
+}
+
+.img_joy_sir {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid white!important;
+}
+
+.img_right .more {
+    color: green;
+}
+
+.img_left {
+    overflow: hidden;
+}
+
+
+.click {
+
+}
+
+.aaa {
+    clear: right;
+}
